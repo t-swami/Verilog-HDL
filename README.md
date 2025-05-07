@@ -1,4 +1,5 @@
 # Verilog
+Use brain for to search: "ctrl+f" then search the related thing i,e,. may be the program name you want.
 For do progress in my life, wanted to upload possible number of codes every week untill unless reaches to certain steps.
 
 Welcome to the Verilog Codes and Notes repository!
