@@ -18,6 +18,7 @@ cd Verilog-repo
 Requirements:
 Software:Vivado
 
+
 Contributions:
 Feel free to contribute by submitting pull requests or reporting issues. Follow the guidelines below:
 Fork the repository:
