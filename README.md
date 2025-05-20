@@ -10,7 +10,7 @@ Repository Structure:
 │── 📁 docs/               # Documentation and notes
 
 Clone the repository:
-git clone https://github.com/t-swami/verilog-repo.git
+git clone https://github.com/t-swami/verilog-repo.git 
 
 Navigate into the directory:
 cd Verilog-repo
