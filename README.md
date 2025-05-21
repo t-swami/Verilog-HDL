@@ -7,6 +7,7 @@ This repository contains Verilog codes for various digital design projects along
 Repository Structure:
 📂 Verilog-Codes-and-Notes
 │── 📁 src/                # Source code,test bench file and constraints files (.xpr)
+        .v files of main module and test bench
 │── 📁 docs/               # Documentation and notes
 
 Clone the repository:
